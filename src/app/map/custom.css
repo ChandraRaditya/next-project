@@ -1,0 +1,8 @@
+/* .map .leaflet-tile-container img {
+  width: 257px !important;
+  height: 257px !important;
+} */
+
+.map .leaflet-tile {
+  outline: 1px solid transparent;
+}
